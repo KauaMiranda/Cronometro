@@ -1,0 +1,36 @@
+div{
+    text-align:center;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+}
+
+button{
+  height: 2.5em;
+  width: 5.5em;
+  border: none;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.start-btn{
+    background-color: rgb(8, 133, 23);
+    color: aliceblue;
+}
+
+.pause-btn{
+    background-color: rgb(201, 174, 19);
+    color: aliceblue;
+}
+
+.stop-btn{
+    background-color: rgb(220, 20, 20);
+    color: aliceblue;
+}
